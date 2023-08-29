@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Alt text](./design/desktop-design.jpg)
+![Alt text](design/desktop-design.jpg)
 
 ### Links
 
